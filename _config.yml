@@ -1,8 +1,10 @@
-title: | 
+title: |- 
     Tiziano 
     Rotesi
 logo: /assets/img/pic.jpg
-description: 
+description: |+
+    PHD
+    Candidate
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
