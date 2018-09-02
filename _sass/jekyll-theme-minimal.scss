@@ -9,10 +9,6 @@ body {
   font-weight:400;
 }
 
-.page__content {
-  text-align: justify;
-}
-
 h1 {
   color:#222;
   margin:0 0 20px;
@@ -122,6 +118,10 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.page__content {
+  text-align: justify;
 }
 
 ul.downloads {
