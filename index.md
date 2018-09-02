@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Contact 
+# Contact 
 
 ### Address
 Università Bocconi
+
 Via Roentgen, 1
+
 Room 5-D2-09
 
 ### Phone
@@ -15,7 +17,7 @@ Room 5-D2-09
 ### Email
 tiziano.rotesi@unibocconi.it
 
-###Skype
+### Skype
 tizianorotesi
 
 ### Twitter
