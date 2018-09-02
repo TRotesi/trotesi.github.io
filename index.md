@@ -5,7 +5,7 @@ layout: default
 # Contact 
 
 #### Address
-Università Bocconi__
+Università Bocconi  
 Via Roentgen, 1   
 Room 5-D2-09
 
