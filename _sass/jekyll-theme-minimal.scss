@@ -114,6 +114,7 @@ img {
 }
 
 header {
+  text-align: justify;
   width:270px;
   float:left;
   position:fixed;
@@ -207,10 +208,6 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
-}
-
-header {
-  text-align: justify;
 }
 
 @media print, screen and (max-width: 960px) {
