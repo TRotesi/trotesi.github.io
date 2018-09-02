@@ -209,6 +209,10 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header {
+  text-align: justify;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -224,7 +228,6 @@ footer {
 
   header {
     padding-right:320px;
-	text-align: justify;
   }
 
   section {
