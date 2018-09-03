@@ -27,8 +27,11 @@ You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
 
 ### Do Social Media Matter? The Impact of Twitter on US Politics.
 
-
+<details><summary>Abstract</summary>
+<p>
 In this paper I study the impact that Twitter had on voting behavior during the 2008 and 2012 presidential elections. I first develop a measure of Twitter penetration across regions by matching user accounts with counties. Second, I provide a novel identification strategy to study the causal effect of the presence of the social network on voting behavior. It is indeed necessary to address endogeneity concerns related to unobservable variables. Changes in the political debate or waves of discontent at the local level could drive users towards Twitter, to the extent that the platform allows them to express their opinion or gather information. To this end, I exploit variation in the popularity of sport teams that signed new players with Twitter accounts, making therefore the social network more interesting for their fans. Estimates show that the impact on turnout is negative. Moreover, I find a negative effect on the share of votes for Democratic Party. By using data from the Current Population Survey, I also find that respondents tend to discuss less about politics in areas with a higher Twitter penetration. Taken together, these results suggest that Twitter did not favor a constructive debate around politics, but it rather fostered sentiment against politics.
+</p>
+</details>
 
 ### Information Transmission in a Social Network: A Controlled Field Experiment. 
 *(with Eleonora Patacchini and Paolo Pin)*
