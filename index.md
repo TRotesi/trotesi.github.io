@@ -2,10 +2,14 @@
 layout: default
 ---
 
-# Contact 
+## Contact 
 
 #### Address
-Via Röntgen 1, <br/>Office 5-D2-09, <br/>Milan, 20135, <br/>Italy
+Department of Economics <br/>
+Via Röntgen 1 <br/>
+Office 5-D2-09 <br/>
+Milan 20135 <br/>
+Italy
 #### Phone
 +39 02 5836.5190
 #### Email
@@ -15,11 +19,13 @@ tizianorotesi
 #### Twitter
 @TRotesi
 
-# CV
+## CV
 
 You can find my cv here: [Link](https://www.dropbox.com/s/2v5ksv6b62wvku6/CV_TizianoRotesi.pdf?dl=0).
 
-# Research
+You can find my cv here: [Link](https://www.dropbox.com/s/2v5ksv6b62wvku6/CV_TizianoRotesi.pdf?dl=0).
+
+## Research
 
 ### Do Social Media Matter? The Impact of Twitter on US Politics.
 
