@@ -4,6 +4,7 @@ layout: default
 
 # Contact 
 
+Bocconi University <br/>
 Department of Economics <br/>
 Via Röntgen 1 <br/>
 Office 5-D2-09 <br/>
