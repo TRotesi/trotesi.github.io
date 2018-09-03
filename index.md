@@ -11,7 +11,7 @@ Milan 20135 <br/>
 Italy
 
 **Phone**: +39 02 5836.5190
-**Email**: tiziano.rotesi@unibocconi.it
+**Email**: tiziano.rotesi@unibocconi.it <br/>
 **Skype**: tizianorotesi
 **Twitter**: @TRotesi
 
