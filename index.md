@@ -7,13 +7,13 @@ layout: default
 Department of Economics <br/>
 Via Röntgen 1 <br/>
 Office 5-D2-09 <br/>
-Milan 20135 <br/>
+Milan 20136 <br/>
 Italy
 
-**Phone**: +39 02 5836.5190
+**Phone**: +39 02 5836.5190 <br/>
 **Email**: tiziano.rotesi@unibocconi.it <br/>
-**Skype**: tizianorotesi
-**Twitter**: @TRotesi
+**Skype**: tizianorotesi <br/>
+**Twitter**: @TRotesi 
 
 # CV
 
