@@ -19,8 +19,9 @@ Italy
 # CV
 
 You can find my cv here: [Link](https://www.dropbox.com/s/2v5ksv6b62wvku6/CV_TizianoRotesi.pdf?dl=0).
-
+<!---
 You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
+-->
 
 # Research
 
