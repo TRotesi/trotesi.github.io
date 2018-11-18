@@ -25,24 +25,9 @@ You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
 
 # Research
 
-### Do Social Media Matter? The Impact of Twitter on US Politics.
-Abstract: In this paper I study the impact that Twitter had on voting behavior
-during the 2008, 2012, and 2016 presidential elections. I first develop a measure
-of Twitter penetration across regions by matching user accounts with counties.
-Second, I provide a novel identification strategy to study the causal effect of 
-the presence of the social network on voting behavior. It is indeed necessary to 
-address concerns related to the presence of unobservable variables. Changes in the 
-political climate at the local level could in fact drive users towards Twitter, 
-to the extent that the platform allows them to express their opinion, gather 
-information or support their favorite candidate. To this end, I exploit quasi-random 
-variation from the NBA drafts, as teams that signed new players with Twitter accounts 
-made the social network more interesting for their fans. Estimates show that the 
-impact on turnout tends to be negative. Moreover, I find a negative effect on the share of 
-votes for Democratic Party. By using data from the Current Population Survey, 
-I also find that respondents tend to discuss less about politics in areas with a 
-higher Twitter penetration. Taken together, these results suggest that Twitter 
-did not favor a constructive debate around politics, but it rather fostered 
-sentiment against politics and in particular against the incumbent party.
+### Do Social Media Matter? The Impact of Twitter on Political Participation.
+Abstract: What is the effect of Twitter on political participation? I address this question by studying how the spread of this social network affected voting behavior and donations to politicians during the last three US presidential elections. First, I develop a novel measure of Twitter penetration by using location data collected from users. To address endogeneity in the diffusion of Twitter across regions, I exploit quasi-random variation in the popularity of sport teams that signed new players with Twitter accounts, making therefore the social network more interesting for their fans. Instrumental variables estimates do not show significant effects of Twitter on average participation, intended both as turnout and donations to politicians. On the other hand I find a differential effect across parties, with the Democratic Party being penalized in terms of votes and the Republican Party receiving more donations. I provide two pieces of evidence on mechanisms. First, I show that Twitter reduces voters' information about politics. Second, by downloading and categorizing tweets written by users I show that the majority of users write about sport or entertainment and ignore politics for most part of the year. Peaks in interest happen only during presidential debates, when users are exposed to a polarized debate driven by a minority of very active accounts. Moreover, both the quantity of partisan tweets and the average sentiment favor the Republican Party.
+
 <br/>
 
 ### Information Transmission in a Social Network: A Controlled Field Experiment. 
