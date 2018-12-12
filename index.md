@@ -16,7 +16,7 @@ Italy
 **Skype**: tizianorotesi <br/>
 **Twitter**: @TRotesi 
 
-**You can find my cv here:** [Link](https://www.dropbox.com/s/du970024ba2rzbc/CV_TizianoRotesi.pdf?dl=0).
+**You can find my CV here:** [Link](https://www.dropbox.com/s/du970024ba2rzbc/CV_TizianoRotesi.pdf?dl=0).
 
 <!---
 You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
