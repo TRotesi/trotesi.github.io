@@ -36,4 +36,4 @@ Abstract: Using an app for smartphones we run an experiment among high school st
 # More
 
 ### [App Lab](https://applabresearch.com/) is now available!
-App Lab is an easy to use app to run experiments on smartphones. It is available for both Android and iOS and it allows researchers to distribute experiments directly on subjects' smartphones. It is compatible with easy to use tools such as oTree and Qualtrics, for better access.
+App Lab is an easy to use app to run experiments on smartphones. It is available for both Android and iOS and it allows researchers to distribute experiments directly in subjects' pockets. It is compatible with easy to use tools such as [oTree](https://www.otree.org/) and [Qualtrics](https://www.qualtrics.com/), and can also be used for notifications and payments.
