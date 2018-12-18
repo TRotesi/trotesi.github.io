@@ -6,7 +6,7 @@
 .wrappernew {
   display: inline-block;
   width:860px;
-  margin:0 auto;
+  margin: auto;
 }
 
 sectioncenter {
@@ -18,14 +18,6 @@ sectioncenter {
 div.wrappernew {
     display: inline-block;
     width:auto;
-    margin:0 auto;
-}
-
-body {
-  text-align: center, justify;
-  background-color: #fff;
-  padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#727272;
-  font-weight:400;
+    margin: auto;
+	background-color: #f3f3f3;
 }
