@@ -3,7 +3,7 @@
 
 @import "jekyll-theme-minimal";
 
-.wrapper2 {
+.wrappernew {
   display: inline-block
   width:860px;
   margin:0 auto;
@@ -14,3 +14,9 @@ sectioncenter {
   width:500px;
   padding-bottom:50px;
 }
+
+  div.wrappernew {
+    display: inline-block
+    width:auto;
+    margin:0;
+  }
