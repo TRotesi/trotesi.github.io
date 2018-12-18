@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: report
 ---
 
 ## Welcome to another page
