@@ -3,8 +3,14 @@
 
 @import "jekyll-theme-minimal";
 
-sectioncenter {
+.wrapper2 {
   display: inline-block
+  width:860px;
+  margin:0 auto;
+}
+
+sectioncenter {
+  margin-left: 3px;
   width:500px;
   padding-bottom:50px;
 }
