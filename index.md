@@ -4,15 +4,14 @@ layout: default
 
 # Contact 
 
-Bocconi University <br/>
+Université de Lausanne <br/>
 Department of Economics <br/>
-Via Röntgen 1 <br/>
-Office 5-D2-09 <br/>
-Milan 20136 <br/>
-Italy
+Quartier UNIL- Chamberonne <br/>
+Office Internef 501,1 <br/>
+1015 Lausanne - Switzerland <br/>
 
-**Phone**: +39 02 5836.5190 <br/>
-**Email**: tiziano.rotesi@unibocconi.it <br/>
+**Phone**: +41 021 6923 3469 <br/>
+**Email**: tiziano.rotesi@unil.ch <br/>
 **Skype**: tizianorotesi <br/>
 **Twitter**: @TRotesi 
 
