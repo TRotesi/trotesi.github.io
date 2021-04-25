@@ -32,10 +32,8 @@ You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
 
 * **The power of app–based experiments** Draft available upon request <br/>*(with Paolo Pin)*
 
-  <p> We test the same pool of subjects on a series of standard tasks in behavioral economics, assigning randomly half of the pool to a classical laboratory and letting the other half perform the experiment on their smartphones, outside the lab, with an app that we have developed.
-We measure the difference in behavior between the two treatments.
-Behavior is similar across samples: participants respond essentially in the same way with respect to standard behavioral measures, effort, focus, cognitive tasks, strategical reasoning and beliefs about the actions of other players.
-We find anyway some differences: subjects on the app (i.e., outside the lab) are more prone to errors on boring tasks, prefer to provide a wrong answer rather than letting time expire, and tend to be slightly more generous and trustful with respect to the other subjects in the same session.
+  <p> We test the same pool of subjects on a series of standard tasks in behavioral economics, assigning randomly half of the pool to a classical laboratory and letting the other half perform the experiment on their smartphones, outside the lab, with an app that we have developed. We measure the difference in behavior between the two treatments.
+Behavior is similar across samples: participants respond essentially in the same way with respect to standard behavioral measures, effort, focus, cognitive tasks, strategical reasoning and beliefs about the actions of other players. We find anyway some differences: subjects on the app (i.e., outside the lab) are more prone to errors on boring tasks, prefer to provide a wrong answer rather than letting time expire, and tend to be slightly more generous and trustful with respect to the other subjects in the same session.
 </p>
 
 
