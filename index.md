@@ -25,7 +25,6 @@ You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
 # Research
 
 ### [Reconciliation Narratives: The Birth of a Nation after the US Civil War](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3816811)
-<details>
 *(with Elena Esposito, Alessandro Saia and Mathias Thoenig)*
 <details>
 <summary>Click to enlarge. Abstract: </summary>
