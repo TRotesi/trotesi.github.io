@@ -31,7 +31,7 @@ You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
 # Work in progress
 
 * Eleonora Patacchini, Paolo Pin, and Tiziano Rotesi. **Information Transmission in a Social Network: A Controlled Field Experiment.** January 2019. Draft available upon request <br/>
-* 
+
 # Publications
 
 *	Tiziano Rotesi, Paolo Pin, Maria Cucciniello, Amyn A. Malik, Elliott E. Paintsil, Scott E. Bokemper, Kathryn Willebrand, Gregory A. Huber, Alessia Melegaro, and Saad B. Omer.  **National interest may require distributing COVID-19 vaccines to other countries.** Scientific Reports, 2021. https://doi.org/10.1038/s41598-021-97544-5
