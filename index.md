@@ -17,9 +17,6 @@ Office Internef 501,1 <br/>
 
 **You can find my CV here:** [Link](https://www.dropbox.com/s/du970024ba2rzbc/CV_TizianoRotesi.pdf?dl=0).
 
-<!---
-You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
--->
 # Working Papers
 
 * Elena Esposito, Tiziano Rotesi, Alessandro Saia, and Mathias Thoenig. **Reconciliation Narratives: The Birth of a Nation after the US Civil War.** March 2021. *R&R American Economic Review.* [Most recent version here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3816811) 
@@ -30,7 +27,7 @@ You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
   
 # Work in progress
 
-* Eleonora Patacchini, Paolo Pin, and Tiziano Rotesi. **Information Transmission in a Social Network: A Controlled Field Experiment.** January 2019. Draft available upon request <br/>
+* Eleonora Patacchini, Paolo Pin, and Tiziano Rotesi. **Information Transmission in a Social Network: A Controlled Field Experiment.** January 2019. Draft available upon request
 
 # Publications
 
