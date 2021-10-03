@@ -20,13 +20,6 @@ Office Internef 501,1 <br/>
 <!---
 You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
 -->
-
-# Publications
-
-*	Tiziano Rotesi, Paolo Pin, Maria Cucciniello, Amyn A. Malik, Elliott E. Paintsil, Scott E. Bokemper, Kathryn Willebrand, Gregory A. Huber, Alessia Melegaro, and Saad B. Omer.  **National interest may require distributing COVID-19 vaccines to other countries.** Scientific Reports, 2021. https://doi.org/10.1038/s41598-021-97544-5
-
-*	Scott E. Bokemper, Maria Cucciniello, Tiziano Rotesi, Paolo Pin, Amyn A. Malik, Kathryn Willebrand, Elliott E. Paintsil, Saad B. Omer, Gregory A. Huber, and Alessia Melegaro.  **Beliefs about Mask Efficacy and the Effect of Social Norms on Mask Wearing Intentions for COVID-19 Risk Reduction.** PLOS One, 2021.
-
 # Working Papers
 
 * Elena Esposito, Tiziano Rotesi, Alessandro Saia, and Mathias Thoenig. **Reconciliation Narratives: The Birth of a Nation after the US Civil War.** March 2021. *R&R American Economic Review.* [Most recent version here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3816811) 
@@ -38,6 +31,12 @@ You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
 # Work in progress
 
 * Eleonora Patacchini, Paolo Pin, and Tiziano Rotesi. **Information Transmission in a Social Network: A Controlled Field Experiment.** January 2019. Draft available upon request <br/>
+* 
+# Publications
+
+*	Tiziano Rotesi, Paolo Pin, Maria Cucciniello, Amyn A. Malik, Elliott E. Paintsil, Scott E. Bokemper, Kathryn Willebrand, Gregory A. Huber, Alessia Melegaro, and Saad B. Omer.  **National interest may require distributing COVID-19 vaccines to other countries.** Scientific Reports, 2021. https://doi.org/10.1038/s41598-021-97544-5
+
+*	Scott E. Bokemper, Maria Cucciniello, Tiziano Rotesi, Paolo Pin, Amyn A. Malik, Kathryn Willebrand, Elliott E. Paintsil, Saad B. Omer, Gregory A. Huber, and Alessia Melegaro.  **Beliefs about Mask Efficacy and the Effect of Social Norms on Mask Wearing Intentions for COVID-19 Risk Reduction.** PLOS One, 2021.
 
 # More
 
