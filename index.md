@@ -34,6 +34,8 @@ You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
 
 * Tiziano Rotesi. **The Impact of Twitter on Political Participation.** April 2019. *In revision* [Most recent version here](https://www.dropbox.com/s/gp22s3jnelmz34b/Rotesi_Twitter_Participation.pdf?dl=0)
   
+# Work in progress
+
 * Eleonora Patacchini, Paolo Pin, and Tiziano Rotesi. **Information Transmission in a Social Network: A Controlled Field Experiment.** January 2019. Draft available upon request <br/>
 
 # More
