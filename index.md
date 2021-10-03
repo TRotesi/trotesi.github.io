@@ -22,9 +22,10 @@ You can find my cv here: [Link](/assets/files/CV_TizianoRotesi.pdf).
 -->
 
 # Publications
-*	Scott E. Bokemper, Maria Cucciniello, Tiziano Rotesi, Paolo Pin, Amyn A. Malik, Kathryn Willebrand, Elliott E. Paintsil, Saad B. Omer, Gregory A. Huber, and Alessia Melegaro.  **Beliefs about Mask Efficacy and the Effect of Social Norms on Mask Wearing Intentions for COVID-19 Risk Reduction.** PLOS One, 2021.
 
 *	Tiziano Rotesi, Paolo Pin, Maria Cucciniello, Amyn A. Malik, Elliott E. Paintsil, Scott E. Bokemper, Kathryn Willebrand, Gregory A. Huber, Alessia Melegaro, and Saad B. Omer.  **National interest may require distributing COVID-19 vaccines to other countries.** Scientific Reports, 2021. https://doi.org/10.1038/s41598-021-97544-5
+
+*	Scott E. Bokemper, Maria Cucciniello, Tiziano Rotesi, Paolo Pin, Amyn A. Malik, Kathryn Willebrand, Elliott E. Paintsil, Saad B. Omer, Gregory A. Huber, and Alessia Melegaro.  **Beliefs about Mask Efficacy and the Effect of Social Norms on Mask Wearing Intentions for COVID-19 Risk Reduction.** PLOS One, 2021.
 
 # Working Papers
 
