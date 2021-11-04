@@ -21,7 +21,7 @@ Office Internef 501,1 <br/>
 
 * Elena Esposito, Tiziano Rotesi, Alessandro Saia, and Mathias Thoenig. **Reconciliation Narratives: The Birth of a Nation after the US Civil War.** March 2021. *R&R American Economic Review.* [Most recent version here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3816811) 
 
-* Paolo Pin, and Tiziano Rotesi. **The power of app–based experiments.** June 2021. [Most recent version here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865723)
+* Paolo Pin, and Tiziano Rotesi. **The power of app–based experiments.** November 2021. [Most recent version here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865723)
 
 * Tiziano Rotesi. **The Impact of Twitter on Political Participation.** April 2019. *In revision* [Most recent version here](https://www.dropbox.com/s/gp22s3jnelmz34b/Rotesi_Twitter_Participation.pdf?dl=0)
   
