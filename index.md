@@ -27,7 +27,7 @@ Office Internef 501,1 <br/>
   
 # Work in progress
 
-* Eleonora Patacchini, Paolo Pin, and Tiziano Rotesi. **Information Transmission in a Social Network: A Controlled Field Experiment.** January 2019. Draft available upon request
+* Eleonora Patacchini, Paolo Pin, and Tiziano Rotesi. **Information Transmission in a Social Network: A Field Experiment.** February 2022. Draft available upon request
 
 # Publications
 
