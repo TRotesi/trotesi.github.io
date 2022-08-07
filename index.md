@@ -19,9 +19,9 @@ Office Internef 501,1 <br/>
 
 # Working Papers
 
-* Elena Esposito, Tiziano Rotesi, Alessandro Saia, and Mathias Thoenig. **Reconciliation Narratives: The Birth of a Nation after the US Civil War.** March 2021. *R&R American Economic Review.* [Most recent version here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3816811) 
+* Elena Esposito, Tiziano Rotesi, Alessandro Saia, and Mathias Thoenig. **Reconciliation Narratives: The Birth of a Nation after the US Civil War.** March 2021. *R&R American Economic Review.* [Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3816811) 
 
-* Paolo Pin, and Tiziano Rotesi. **The power of app–based experiments.** November 2021. [Most recent version here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865723)
+* Paolo Pin, and Tiziano Rotesi. **The power of app–based experiments.** July 2022. [Most recent version here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865723)
 
 * Tiziano Rotesi. **The Impact of Twitter on Political Participation.** April 2019. *In revision* [Most recent version here](https://www.dropbox.com/s/gp22s3jnelmz34b/Rotesi_Twitter_Participation.pdf?dl=0)
   
@@ -37,6 +37,6 @@ Office Internef 501,1 <br/>
 
 # More
 
-### [App Lab](https://applabresearch.com/) is now available!
+### [App Lab](https://applabresearch.com/)
 App Lab is an easy to use app to run experiments on smartphones. It is available for both Android and iOS and it allows researchers to distribute experiments directly in subjects' pockets. It is compatible with easy to use tools such as [oTree](https://www.otree.org/) and [Qualtrics](https://www.qualtrics.com/), and can also be used for notifications and payments.
 
