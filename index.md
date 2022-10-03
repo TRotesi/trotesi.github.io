@@ -19,11 +19,11 @@ Office Internef 501,1 <br/>
 
 ### Working Papers
 
+* Paolo Pin, and Tiziano Rotesi. **The power of app–based experiments.** August 2022. *R&R Journal of Economic Psychology.* [Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865723)
+
 * Eleonora Patacchini, Paolo Pin, and Tiziano Rotesi. **Information Transmission in a Social Network: A Field Experiment.** February 2022. Draft available upon request. *R&R Journal of Experimental Political Science.*
 
 * Elena Esposito, Tiziano Rotesi, Alessandro Saia, and Mathias Thoenig. **Reconciliation Narratives: The Birth of a Nation after the US Civil War.** March 2021. *R&R American Economic Review.* [Working Paper Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3816811) 
-
-* Paolo Pin, and Tiziano Rotesi. **The power of app–based experiments.** July 2022. [Most recent version here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3865723)
 
 *	Scott E. Bokemper, Elliott E. Paintsil, Amyn A. Malik, Tiziano Rotesi, Maria Cucciniello, Paolo Pin, Saad B. Omer, Alessia Melegaro, Gregory A. Huber. **Breaking a Sorting Social Norm: How Changing CDC Masking Guidance Altered Social Judgments and Inferences about COVID-19 Vaccination.** June 2022, submitted.
 
